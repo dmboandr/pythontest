@@ -22,5 +22,5 @@ print("Я собираюсь выложить это на github")
 
 while True:
     time.sleep(0.5)
-    print("*" * random.randint(1, 25))
+    print("%" * random.randint(1, 25))
 
